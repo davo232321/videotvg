@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=704835,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=640x360
+https://shlsakamai3.akamaized.net/hlsorigin/tvg_hd_fm_771/chunklist.m3u8?stream=tvg_mbr&cust=TVG&user=&t=1621384124&h=8dea96bb232cc65f61e855648f3e00bc&type=live
+#EXT-X-STREAM-INF:BANDWIDTH=404835,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=480x270
+https://shlsakamai3.akamaized.net/hlsorigin/tvg_hd_fm_400/chunklist.m3u8?stream=tvg_mbr&cust=TVG&user=&t=1621384124&h=8dea96bb232cc65f61e855648f3e00bc&type=live
